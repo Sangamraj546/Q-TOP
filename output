@@ -1,0 +1,12 @@
+HTOP Endpoint
+
+Name: Your Full Name
+Username: codespace
+Server Time (IST): 2023-10-25 14:30:45
+
+Top Output
+top - 14:30:45 up 1 day,  2:30,  0 users,  load average: 0.00, 0.01, 0.05
+Tasks:   5 total,   1 running,   4 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.3 us,  0.2 sy,  0.0 ni, 99.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   2000.0 total,   1500.0 free,    300.0 used,    200.0 buff/cache
+MiB Swap:   1000.0 total,   1000.0 free,      0.0 used.   1600.0 avail Mem
